@@ -41,3 +41,14 @@ nav, main{
   main li:first-child{
     margin-left: 0;
   }
+  main article{
+    width: 50%;
+    float: right;
+    margin-top: 30px;
+  
+  }
+  
+  main h3{
+    margin-left: 30px;
+    font-size: 20px;
+  }
